@@ -1,0 +1,8 @@
+html { 
+    background: url(BILLEDE.jpg) no-repeat center center fixed; #requires jpg url for site.
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; #how much space it fills.
+  }
+  
