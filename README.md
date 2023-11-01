@@ -1,3 +1,3 @@
 # DND-Website
-<p>DND is the most popular TTRPG (Tabletop Roleplaying game) in the world. In DND you can create whatever character you want and be anything you want to be. DND is very flexible with possibilities for Homebrewing (creating your own stuff) and making a beautiful world for your players to enjoy.<p>
-<p>You can play as a Dungeon Master (DM) or a player. The Dungeon Master controls the world, which can be a world they created themselves or a preset world, like the main Forgotten Realms. The players create their own characters to travel through the world and interact with the world in whichever way they want, mostly following rules set by yourself, that determines how your character acts.<p>
+<p>Go to front page:<p>
+[Front Page](DND-Website/index.html)
