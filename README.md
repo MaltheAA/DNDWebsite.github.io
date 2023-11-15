@@ -1,5 +1,6 @@
 # DND-Website
-<p>Go to front page:<p>
-<br>
+Welcome!
 
+Website Front Page:
+<br>
 [Front Page](DNDWebsite/index.html)
