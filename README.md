@@ -2,4 +2,4 @@
 <p>Go to front page:<p>
 <br>
 
-[Front Page](DND-Website/index.html)
+[Front Page](DNDWebsite/index.html)
